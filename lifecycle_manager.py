@@ -101,7 +101,7 @@ class ServiceExamplePageContextLifecycleManager(BaseLifecycleManager):
         self.plugin_data = {
             "name": "ServiceExample_PageContext",
             "description": "Educational example demonstrating BrainDrive's PageContext Service Bridge",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "frontend",
             "icon": "FileText",
             "category": "examples",
@@ -116,8 +116,8 @@ class ServiceExamplePageContextLifecycleManager(BaseLifecycleManager):
             "plugin_slug": "ServiceExample_PageContext",
             # Update tracking fields (matching plugin model)
             "source_type": "github",
-            "source_url": "https://github.com/BrainDrive/ServiceExample_PageContext",
-            "update_check_url": "https://api.github.com/repos/BrainDrive/ServiceExample_PageContext/releases/latest",
+            "source_url": "https://github.com/BrainDriveAI/BrainDrive-Page-Context-Service-Bridge-Example-Plugin",
+            "update_check_url": "https://api.github.com/repos/BrainDriveAI/BrainDrive-Page-Context-Service-Bridge-Example-Plugin/releases/latest",
             "last_update_check": None,
             "update_available": False,
             "latest_version": None,

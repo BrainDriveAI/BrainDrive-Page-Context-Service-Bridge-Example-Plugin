@@ -1,6 +1,6 @@
 {
   "name": "service-example-pagecontext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BrainDrive Plugin Template - A minimal starter template for creating BrainDrive plugins",
   "main": "dist/remoteEntry.js",
   "scripts": {
